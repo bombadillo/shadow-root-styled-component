@@ -1,6 +1,6 @@
 {
   "name": "shadow-root-styled-component",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Use styled-components within ShadowDom",
   "main": "lib/index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "url": "https://github.com/bombadillo/shadow-root-styled-component/issues"
   },
   "homepage": "https://github.com/bombadillo/shadow-root-styled-component#readme",
-  "dependencies": {    
+  "dependencies": {
     "react": "^16.8.4",
     "styled-components": "^4.1.3"
   },
