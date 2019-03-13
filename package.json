@@ -1,6 +1,6 @@
 {
   "name": "shadow-root-styled-component",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Use styled-components within ShadowDom",
   "main": "lib/index.js",
   "scripts": {
